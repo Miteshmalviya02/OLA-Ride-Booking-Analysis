@@ -60,16 +60,19 @@ OLA operates thousands of rides daily across Bengaluru. The management team need
 ## SQL Analysis
 
 ### Q1. Retrieve all successful bookings
-![Q1](images/sql_q1.png)
+<img width="999" height="301" alt="image" src="https://github.com/user-attachments/assets/017f53ef-7957-483b-b5c1-c15d11f6f291" />
+
 
 ### Q2. Find the average ride distance for each vehicle type
-![Q2](images/sql_q2.png)
+<img width="260" height="205" alt="image" src="https://github.com/user-attachments/assets/ad436648-cffe-4b9f-9fcb-372523c2b733" />
+
 
 ### Q3. Get the total number of cancelled rides by customers
-![Q3](images/sql_q3.png)
+<img width="257" height="74" alt="image" src="https://github.com/user-attachments/assets/e6df6ab8-c679-4e8c-8f44-a12bf29176d0" />
 
 ### Q4. List the top 5 customers who booked the highest number of rides
-![Q4](images/sql_q4.png)
+<img width="241" height="160" alt="image" src="https://github.com/user-attachments/assets/4e465c61-8c12-46b6-973c-93885ebce1e3" />
+
 
 ### Q5. Get the number of rides cancelled by drivers due to personal and car-related issues
 ![Q5](images/sql_q5.png)
