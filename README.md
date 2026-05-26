@@ -40,20 +40,25 @@ OLA operates thousands of rides daily across Bengaluru. The management team need
 
 ## Dashboard Preview
 
-### 📊 Overall Dashboard
-![Overall Dashboard](images/dashboard_overall.png)
+### Overall Dashboard
+<img width="1663" height="962" alt="image" src="https://github.com/user-attachments/assets/16059173-e799-400f-b02a-f4f59a6ed068" />
 
-### 🚗 Vehicle Type Analysis
-![Vehicle Type](images/dashboard_vehicle.png)
 
-### 💰 Revenue Dashboard
-![Revenue](images/dashboard_revenue.png)
+### Vehicle Type Analysis
+<img width="1667" height="945" alt="image" src="https://github.com/user-attachments/assets/1c939aab-8560-4b41-bb24-85f4e032b4e6" />
 
-### ❌ Cancellation Dashboard
-![Cancellation](images/dashboard_cancellation.png)
 
-### ⭐ Ratings Dashboard
-![Ratings](images/dashboard_ratings.png)
+### Revenue Dashboard
+<img width="1641" height="913" alt="image" src="https://github.com/user-attachments/assets/756abc3c-db11-4e14-b858-d8c4c0150dfc" />
+
+
+###  Cancellation Dashboard
+<img width="1446" height="820" alt="image" src="https://github.com/user-attachments/assets/32a44527-988d-478a-9d2c-e151c2dacc8d" />
+
+
+### Ratings Dashboard
+<img width="1468" height="822" alt="image" src="https://github.com/user-attachments/assets/31d0b588-ad80-4e50-b2aa-e23e497be918" />
+
 
 ---
 
@@ -75,22 +80,27 @@ OLA operates thousands of rides daily across Bengaluru. The management team need
 
 
 ### Q5. Get the number of rides cancelled by drivers due to personal and car-related issues
-![Q5](images/sql_q5.png)
+<img width="224" height="77" alt="image" src="https://github.com/user-attachments/assets/f8fe67e6-2a29-43ef-85ae-016b0f16be30" />
+
 
 ### Q6. Find the maximum and minimum driver ratings for Prime Sedan bookings
-![Q6](images/sql_q6.png)
+<img width="246" height="130" alt="image" src="https://github.com/user-attachments/assets/ee576457-9648-46ff-a1f6-a1322984a7d4" />
+
 
 ### Q7. Retrieve all rides where payment was made using UPI
-![Q7](images/sql_q7.png)
+<img width="1418" height="303" alt="image" src="https://github.com/user-attachments/assets/ef54ec9f-9691-45a7-a90a-dd883a9c3e02" />
+
 
 ### Q8. Find the average customer rating per vehicle type
-![Q8](images/sql_q8.png)
+<img width="283" height="190" alt="image" src="https://github.com/user-attachments/assets/618fa5f8-6237-47c8-a1a5-da5f86e46dea" />
+
 
 ### Q9. Calculate the total booking value of rides completed successfully
-![Q9](images/sql_q9.png)
+<img width="209" height="88" alt="image" src="https://github.com/user-attachments/assets/ada7c9c9-0914-4080-8fa3-f641beeb47b9" />
+
 
 ### Q10. List all incomplete rides along with the reason
-![Q10](images/sql_q10.png)
+<img width="427" height="339" alt="image" src="https://github.com/user-attachments/assets/00f8347a-f926-4838-87ad-5f58bda655e2" />
 
 ---
 
@@ -127,7 +137,7 @@ Built a **5-page Power BI dashboard** with a date slicer (07-Jul to 25-Jul) and 
 
 ---
 
-### 📊 At a Glance
+### At a Glance
 
 | Metric | Value |
 |---|---|
@@ -141,7 +151,7 @@ Built a **5-page Power BI dashboard** with a date slicer (07-Jul to 25-Jul) and 
 
 ---
 
-### 🔍 Top Findings
+###  Top Findings
 
 - **Only 62.09% of bookings are successful** — nearly 1 in 3 rides fails to complete
 - **28.08% cancellation rate** is a critical operational problem — 17,759 rides lost
@@ -154,7 +164,7 @@ Built a **5-page Power BI dashboard** with a date slicer (07-Jul to 25-Jul) and 
 
 ---
 
-### 💡 Key Recommendations
+### Key Recommendations
 
 - **Penalize or incentivize drivers** to reduce the 17.94% driver cancellation rate — the single biggest revenue leak
 - **Fix driver navigation/tracking** — "not moving towards pickup" (30.5%) suggests a GPS or driver motivation issue
